@@ -23,4 +23,4 @@ Built an end-to-end Telecom Customer Churn Analytics Dashboard using SQL, Power 
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard img.jpeg)
+![Dashboard](./Dashboard%20img.jpeg)
